@@ -66,7 +66,9 @@ Após iniciar o projeto, acesse:
 
 👉 http://localhost:8080/swagger-ui.html
 
-🚀 Deploy no Railway
+---
+
+### 🚀 Deploy no Railway
 Crie um projeto no Railway.
 
 Configure as variáveis de ambiente:
@@ -80,16 +82,10 @@ SPRING_DATASOURCE_PASSWORD
 Faça o deploy com:
 
 git push railway main
-📌 Estrutura de Pastas
-bash
-Copiar
-Editar
-src/main/java/com/example/meubanco
- ├── controller   # Controllers (REST endpoints)
- ├── model        # Entidades (JPA)
- ├── repository   # Interfaces de acesso ao banco
- └── service      # Regras de negócio
-👨‍💻 Contribuição
+
+---
+
+### 👨‍💻 Contribuição
 Contribuições são bem-vindas!
 
 Faça um fork do projeto
